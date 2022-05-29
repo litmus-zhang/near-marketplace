@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.57662d9c.chunk.js",
-    "main.js.map": "/static/js/main.57662d9c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f051cdb9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f051cdb9.js.map",
-    "static/css/2.f29f0336.chunk.css": "/static/css/2.f29f0336.chunk.css",
-    "static/js/2.94a5a732.chunk.js": "/static/js/2.94a5a732.chunk.js",
-    "static/js/2.94a5a732.chunk.js.map": "/static/js/2.94a5a732.chunk.js.map",
-    "static/js/3.c043ab95.chunk.js": "/static/js/3.c043ab95.chunk.js",
-    "static/js/3.c043ab95.chunk.js.map": "/static/js/3.c043ab95.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.f29f0336.chunk.css.map": "/static/css/2.f29f0336.chunk.css.map",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.94a5a732.chunk.js.LICENSE.txt": "/static/js/2.94a5a732.chunk.js.LICENSE.txt",
-    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.f2539a50.woff2",
-    "static/media/sandwich.2d312449.jpg": "/static/media/sandwich.2d312449.jpg"
+    "main.css": "/near-marketplace/static/css/main.a617e044.chunk.css",
+    "main.js": "/near-marketplace/static/js/main.2765f9e9.chunk.js",
+    "main.js.map": "/near-marketplace/static/js/main.2765f9e9.chunk.js.map",
+    "runtime-main.js": "/near-marketplace/static/js/runtime-main.f0b4cbb5.js",
+    "runtime-main.js.map": "/near-marketplace/static/js/runtime-main.f0b4cbb5.js.map",
+    "static/css/2.d05e7eb0.chunk.css": "/near-marketplace/static/css/2.d05e7eb0.chunk.css",
+    "static/js/2.94683725.chunk.js": "/near-marketplace/static/js/2.94683725.chunk.js",
+    "static/js/2.94683725.chunk.js.map": "/near-marketplace/static/js/2.94683725.chunk.js.map",
+    "static/js/3.c043ab95.chunk.js": "/near-marketplace/static/js/3.c043ab95.chunk.js",
+    "static/js/3.c043ab95.chunk.js.map": "/near-marketplace/static/js/3.c043ab95.chunk.js.map",
+    "index.html": "/near-marketplace/index.html",
+    "static/css/2.d05e7eb0.chunk.css.map": "/near-marketplace/static/css/2.d05e7eb0.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/near-marketplace/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.94683725.chunk.js.LICENSE.txt": "/near-marketplace/static/js/2.94683725.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/near-marketplace/static/media/bootstrap-icons.f2539a50.woff2",
+    "static/media/sandwich.2d312449.jpg": "/near-marketplace/static/media/sandwich.2d312449.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f051cdb9.js",
-    "static/css/2.f29f0336.chunk.css",
-    "static/js/2.94a5a732.chunk.js",
+    "static/js/runtime-main.f0b4cbb5.js",
+    "static/css/2.d05e7eb0.chunk.css",
+    "static/js/2.94683725.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.57662d9c.chunk.js"
+    "static/js/main.2765f9e9.chunk.js"
   ]
 }
