@@ -4,8 +4,7 @@ import { utils } from "near-api-js";
 import { Card, Button, Col, Badge, Stack } from "react-bootstrap";
 
 const Product = ({ product, buy }) => {
-  const { id, price, name, description, sold, location, image, owner } =
-    product;
+  const { id, price, name, description, sold, location, image, owner, likes } = product;
 
   const triggerBuy = () => {
     buy(id, price);
@@ -19,6 +18,9 @@ const Product = ({ product, buy }) => {
             <span className="font-monospace text-secondary">{owner}</span>
             <Badge bg="secondary" className="ms-auto">
               {sold} Sold
+            </Badge>
+            <Badge bg="secondary" className="ms-auto">
+              {likes} Likes
             </Badge>
           </Stack>
         </Card.Header>

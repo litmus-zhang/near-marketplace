@@ -16,7 +16,10 @@ export function getProducts()
     return window.contract.getProducts();
 }
 
+
+//Once you purchase a product, it means you alse like it😋😊😊
 export async function buyProduct({ id, price })
 {
-    await window.contract.buyProduct({productId: id}, GAS, price)
+    await window.contract.buyProduct({ productId: id }, GAS, price)
+    
 }
